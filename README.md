@@ -1,0 +1,5 @@
+# scrape_ANAFurusatoNozei_ranking
+毎日「ANAふるさと納税」の人気ランキング上位10までをスクレイピングしてスプレッドシートに自動入力するプログラムです
+
+スプレッドシート：
+https://docs.google.com/spreadsheets/d/1Ww3kvLvsE9fEtcHIKfPl5hsTycvKEc2uRjM_oNxWtbI/edit#gid=2111764830
