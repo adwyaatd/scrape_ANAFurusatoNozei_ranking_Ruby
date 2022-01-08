@@ -1,0 +1,11 @@
+.vscode
+*.zip
+old/
+*.xmind
+config.json
+chromedriver
+headless-chromium
+*.log
+rubygems/bin/*
+rubygems/ruby/gems/*
+rubygems/vendor/*
